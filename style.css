@@ -1,3 +1,4 @@
+/*--- Main ---*/
 .main {
     background-image: url(./images/paris-france.jpg);
     background-position: center;
@@ -31,4 +32,54 @@
 
 .social:hover {
     color: white;
+}
+
+/*--- About me ----*/
+.section-1 {
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.about {
+    color: orange;
+}
+
+#about h1 {
+    color: silver;
+    font-size: 55px;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: orange solid 1px;
+}
+
+#about p {
+    font-size: 25px;
+    text-align: center;
+}
+
+/*--- Projects ---*/
+.section-2 {
+    background-color: rgb(203, 131, 37);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#projects h1 {
+    color: black;
+    font-size: 55px;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: black solid 1px;
+}
+
+.portfolio-sub-text {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: black solid 1px;
 }
