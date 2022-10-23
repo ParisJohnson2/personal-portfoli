@@ -1,3 +1,3 @@
-# personal-portfoli
-The following will be a Personal portolio
-regarding myself. Paris Johnson with links involving previous work.
+# personal-portfolio
+This is a Personal portolio regarding myself.
+Paris Johnson, with links involving previous work.
